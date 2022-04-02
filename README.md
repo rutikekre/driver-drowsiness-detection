@@ -1,13 +1,13 @@
 # Driver Drowsiness Detection
 
-
 ## Steps To launch
 
 1. Install Anaconda/ Python 3.6 or later version.
     (Select "Add to Path" while installing)
   
 2. install NVIDIA Cuda Software
-3. Fire this commands on terminal
-   a. pip install opecv-python
-   b. pip install keras
-   c. pip install tensorflow --user
+
+### Fire this commands on terminal
+1. pip install opecv-python
+2.  pip install keras
+3.  pip install tensorflow --user
