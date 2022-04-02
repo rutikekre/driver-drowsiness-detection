@@ -10,4 +10,5 @@
 ### Fire this commands on terminal
 1. pip install opencv-python
 2.  pip install keras
-3.  pip install tensorflow --user
+3.  pip install pygame
+4.  pip install tensorflow --user
